@@ -1,1 +1,1 @@
-MY first steps in C programming language
+My first steps in C programming language
